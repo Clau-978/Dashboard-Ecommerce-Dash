@@ -79,4 +79,4 @@ Durante o desenvolvimento deste projeto, foi possível praticar:
 - GitHub: https://github.com/Clau-978
 - LinkedIn: [Claudiane Custódio](https://www.linkedin.com/in/claudiane-custodio)
 
-# :star: Este projeto faz parte do meu portfólio de estudos em Análise de Dados
+## :star: Este projeto faz parte do meu portfólio de estudos em Análise de Dados
