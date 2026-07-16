@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido em Python utilizando Dash e Plotly Express visando criar um dashboard interativo para análise de dados de um e-commerce.
 A aplicação permite visualizar indicadores por meio de gráficos dinâmicos, facilitando a interpretação das informações e apoiando a tomada de decisão baseada em dados.
-
+ 
 ## Objetivos
 - Praticar análise e visualização de dados com Python;
 - Desenvolver um dashboard interativo utilizando Dash;
@@ -79,4 +79,4 @@ Durante o desenvolvimento deste projeto, foi possível praticar:
 - GitHub: https://github.com/Clau-978
 - LinkedIn: [Claudiane Custódio](https://www.linkedin.com/in/claudiane-custodio)
 
-## :star: Este projeto faz parte do meu portfólio de estudos em Análise de Dados
+# :star: Este projeto faz parte do meu portfólio de estudos em Análise de Dados
