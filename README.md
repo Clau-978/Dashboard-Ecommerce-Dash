@@ -2,7 +2,6 @@
 
 Este projeto foi desenvolvido em Python utilizando Dash e Plotly Express visando criar um dashboard interativo para análise de dados de um e-commerce.
 A aplicação permite visualizar indicadores por meio de gráficos dinâmicos, facilitando a interpretação das informações e apoiando a tomada de decisão baseada em dados.
- 
 
 ## Objetivos
 - Praticar análise e visualização de dados com Python;

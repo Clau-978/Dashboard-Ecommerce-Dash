@@ -96,7 +96,7 @@ def cria_app(df):
     return app
 
 # Leitura dos dados
-df = pd.read_csv(r"C:\Users\claud\PycharmProjects\dashboard-ecommerce-dash\ecommerce_estatistica.csv")
+df = pd.read_csv("ecommerce_estatistica.csv")
 
 # Executa APP
 if __name__ == '__main__':
